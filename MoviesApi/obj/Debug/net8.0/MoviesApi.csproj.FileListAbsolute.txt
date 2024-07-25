@@ -1,0 +1,284 @@
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\appsettings.Development.json
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\appsettings.json
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\MoviesApi.exe
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\MoviesApi.deps.json
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\MoviesApi.runtimeconfig.json
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\MoviesApi.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\MoviesApi.pdb
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.csproj.AssemblyReference.cache
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.AssemblyInfoInputs.cache
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.AssemblyInfo.cs
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.csproj.CoreCompileInputs.cache
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\staticwebassets.build.json
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\staticwebassets.development.json
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\staticwebassets\msbuild.MoviesApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\staticwebassets\msbuild.build.MoviesApi.props
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApi.props
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MoviesApi.props
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\scopedcss\bundle\MoviesApi.styles.css
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.csproj.Up2Date
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\refint\MoviesApi.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.pdb
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.genruntimeconfig.cache
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\obj\Debug\net8.0\ref\MoviesApi.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Azure.Core.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Azure.Identity.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Humanizer.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\System.CodeDom.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\System.Text.Json.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Computer Sience\Back_End\El helaly\[Arabic] APIs In .Net 6 (Core)\Practice\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\appsettings.Development.json
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\appsettings.json
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\MoviesApi.exe
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\MoviesApi.deps.json
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\MoviesApi.runtimeconfig.json
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\MoviesApi.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\MoviesApi.pdb
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\AutoMapper.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Azure.Core.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Azure.Identity.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Humanizer.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\System.CodeDom.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\System.Text.Json.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.csproj.AssemblyReference.cache
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.AssemblyInfoInputs.cache
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.AssemblyInfo.cs
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.csproj.CoreCompileInputs.cache
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\staticwebassets.build.json
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\staticwebassets.development.json
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\staticwebassets\msbuild.MoviesApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\staticwebassets\msbuild.build.MoviesApi.props
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApi.props
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MoviesApi.props
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\scopedcss\bundle\MoviesApi.styles.css
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.csproj.Up2Date
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.dll
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\refint\MoviesApi.dll
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.pdb
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\MoviesApi.genruntimeconfig.cache
+E:\Proojects\Projects\WebApi\MoviesApi\obj\Debug\net8.0\ref\MoviesApi.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Proojects\Projects\WebApi\MoviesApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

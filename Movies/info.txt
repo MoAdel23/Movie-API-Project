@@ -1,0 +1,111 @@
+
+Title : Dreambuilders
+StroryLine : Minna, a young girl, misuses her newfound ability to create and control other people's dreams to teach her bothersome stepsister a lesson.
+Rate : 6
+Year : 2020
+_________________________________________________________
+Title : Pil's Adventures
+StroryLine : A spunky young girl disguises herself as a princess in order to save the kingdom and the heir to the throne.
+Rate : 6.1
+Year : 2021
+_________________________________________________________
+Title : Terra Willy
+StroryLine : Upon the destruction of their ship, Willy is separated from his parents. He lands on a wild and unexplored planet and with the help of Buck, a survival robot, he will have to hold until the arrival of a rescue mission.
+Rate : 6.6
+Year : 2019
+_________________________________________________________
+Title : Bigfoot Family
+StroryLine : Follow up to Son of Bigfoot: Father uses his new fame to fight against an Alaska oil company but when he disappears the son, the mother, a raccoon and a bear head North to rescue him.
+Rate : 5.8
+Year : 2020
+_________________________________________________________
+Title : Chickenhare and the Hamster of Darkness
+StroryLine : Follows a young hero born half chicken and half hare. Eager to fit in and feel loved in spite of his differences, he is obsessed by adventuring in spite of his clumsiness.
+Rate : 6.3
+Year : 2022
+_________________________________________________________
+Title : Mune: Guardian of the Moon
+StroryLine : Mune, a young fawn, is chosen as the new Guardian of the Moon. Together with Glim, a girl made of wax, and Sohone, the new Guardian of the Sun, they must recover the sun from the evil Necross.
+Rate : 7.1
+Year : 2014
+_________________________________________________________
+Title : Astro Boy
+StroryLine : When an android replica of a boy is rejected by his aggrieved creator, he goes off to find his own identity in an adventure that would make him the greatest hero of his time.
+Rate : 6.2
+Year : 2009
+_________________________________________________________
+Title : Epic
+StroryLine : A teenager finds herself transported to a deep forest setting where a battle between the forces of good and evil is taking place. She bands together with a ragtag group of characters to save their world--and ours.
+Rate : 6.6
+Year : 2013
+_________________________________________________________
+Title : Rise of the Guardians
+StroryLine : When the evil spirit Pitch launches an assault on Earth, the Immortal Guardians team up to protect the innocence of children all around the world.
+Rate : 7.2
+Year : 2012
+_________________________________________________________
+Title : Turbo
+StroryLine : A freak accident might just help an everyday garden snail achieve his biggest dream: winning the Indy 500.
+Rate : 6.4
+Year : 2013
+_________________________________________________________
+Title : Rio
+StroryLine : When Blu, a domesticated macaw from small-town Minnesota, meets the fiercely independent Jewel, he takes off on an adventure to Rio de Janeiro with the bird of his dreams.
+Rate : 6.9
+Year : 2011
+_________________________________________________________
+Title : Bolt
+StroryLine : The canine star of a fictional sci-fi/action show that believes his powers are real embarks on a cross country trek to save his co-star from a threat he believes is just as real.
+Rate : 6.8
+Year : 2008
+_________________________________________________________
+Title : Meet the Robinsons
+StroryLine : Lewis is a brilliant inventor who meets mysterious stranger named Wilbur Robinson, whisking Lewis away in a time machine and together they team up to track down Bowler Hat Guy in a showdown that ends with an unexpected twist of fate.
+Rate : 6.8
+Year : 2007
+_________________________________________________________
+Title : Bee Movie
+StroryLine : Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship blossoms, he discovers humans actually eat honey and subsequently decides to sue them.
+Rate : 6.1
+Year : 2007
+_________________________________________________________
+Title : Shark Tale
+StroryLine : When a son of a gangster shark boss is accidentally killed while on the hunt, his would-be prey and his vegetarian brother decide to use the incident to their own advantage.
+Rate : 6.0
+Year : 2004
+_________________________________________________________
+Title : Robots
+StroryLine : In a robot world, a young idealistic inventor travels to the big city to join his inspiration's company, only to find himself opposing its sinister new management.
+Rate : 6.4
+Year : 2005
+_________________________________________________________
+Title : Horton Hears a Who!
+StroryLine : Horton the Elephant struggles to protect a microscopic community from his neighbors who refuse to believe it exists.
+Rate : 6.8
+Year : 2008
+_________________________________________________________
+Title : Mr. Peabody & Sherman
+StroryLine : Sherman, a young boy, misuses a time machine made by his scientist father Mr. Peabody and causes the world history to go haywire. It is now up to Mr. Peabody to rescue his son and the world.
+Rate : 6.8
+Year : 2014
+_________________________________________________________
+Title : Home
+StroryLine : Oh, a lovable misfit alien, runs away from his planet and takes shelter on Earth, where he befriends Tip, an adventurous young girl who is on a quest to find her displaced mother Lucy.
+Rate : 6.5
+Year : 2015
+_________________________________________________________
+Title : The Croods
+StroryLine : After their cave is destroyed, a caveman family must trek through an unfamiliar fantastical world with the help of an inventive boy.
+Rate : 7.1
+Year : 2013
+_________________________________________________________
+Title : The Boss Baby
+StroryLine : A suit-wearing, briefcase-carrying baby pairs up with his 7-year old brother to stop the dastardly plot of the CEO of Puppy Co.
+Rate : 6.3
+Year : 2017
+_________________________________________________________
+Title : The Angry Birds Movie
+StroryLine : When an island populated by happy, flightless birds is visited by mysterious green pigs, it's up to three unlikely outcasts to figure out what the pigs are up to.
+Rate : 6.3
+Year : 2016
+_________________________________________________________

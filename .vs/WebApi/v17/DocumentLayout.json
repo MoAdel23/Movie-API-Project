@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Proojects\\Projects\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__local/Movies/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10A2C77-0A08-4EC7-9D91-07D718753F63}|MoviesApi\\MoviesApi.csproj|e:\\proojects\\projects\\webapi\\moviesapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10A2C77-0A08-4EC7-9D91-07D718753F63}|MoviesApi\\MoviesApi.csproj|solutionrelative:moviesapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10A2C77-0A08-4EC7-9D91-07D718753F63}|MoviesApi\\MoviesApi.csproj|e:\\proojects\\projects\\webapi\\moviesapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10A2C77-0A08-4EC7-9D91-07D718753F63}|MoviesApi\\MoviesApi.csproj|solutionrelative:moviesapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10A2C77-0A08-4EC7-9D91-07D718753F63}|MoviesApi\\MoviesApi.csproj|e:\\proojects\\projects\\webapi\\moviesapi\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10A2C77-0A08-4EC7-9D91-07D718753F63}|MoviesApi\\MoviesApi.csproj|solutionrelative:moviesapi\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10A2C77-0A08-4EC7-9D91-07D718753F63}|MoviesApi\\MoviesApi.csproj|e:\\proojects\\projects\\webapi\\moviesapi\\interfaces\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10A2C77-0A08-4EC7-9D91-07D718753F63}|MoviesApi\\MoviesApi.csproj|solutionrelative:moviesapi\\interfaces\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10A2C77-0A08-4EC7-9D91-07D718753F63}|MoviesApi\\MoviesApi.csproj|e:\\proojects\\projects\\webapi\\moviesapi\\models\\addrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10A2C77-0A08-4EC7-9D91-07D718753F63}|MoviesApi\\MoviesApi.csproj|solutionrelative:moviesapi\\models\\addrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Proojects\\Projects\\WebApi\\MoviesApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MoviesApi\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Proojects\\Projects\\WebApi\\MoviesApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MoviesApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:25:33.03Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "E:\\Proojects\\Projects\\WebApi\\MoviesApi\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "MoviesApi\\Services\\AuthServices.cs",
+              "ToolTip": "E:\\Proojects\\Projects\\WebApi\\MoviesApi\\Services\\AuthServices.cs",
+              "RelativeToolTip": "MoviesApi\\Services\\AuthServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:30:42.527Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddRoleModel.cs",
+              "DocumentMoniker": "E:\\Proojects\\Projects\\WebApi\\MoviesApi\\Models\\AddRoleModel.cs",
+              "RelativeDocumentMoniker": "MoviesApi\\Models\\AddRoleModel.cs",
+              "ToolTip": "E:\\Proojects\\Projects\\WebApi\\MoviesApi\\Models\\AddRoleModel.cs",
+              "RelativeToolTip": "MoviesApi\\Models\\AddRoleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T21:30:28.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__local/Movies/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-24T21:19:28.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\Proojects\\Projects\\WebApi\\MoviesApi\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "MoviesApi\\Models\\LoginModel.cs",
+              "ToolTip": "E:\\Proojects\\Projects\\WebApi\\MoviesApi\\Models\\LoginModel.cs",
+              "RelativeToolTip": "MoviesApi\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T21:00:30.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "E:\\Proojects\\Projects\\WebApi\\MoviesApi\\Interfaces\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "MoviesApi\\Interfaces\\IAuthServices.cs",
+              "ToolTip": "E:\\Proojects\\Projects\\WebApi\\MoviesApi\\Interfaces\\IAuthServices.cs",
+              "RelativeToolTip": "MoviesApi\\Interfaces\\IAuthServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:58:21.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
